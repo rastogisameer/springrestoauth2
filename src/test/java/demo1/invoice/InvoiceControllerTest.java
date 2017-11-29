@@ -1,4 +1,4 @@
-package pac.controller;
+package demo1.invoice;
 
 import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.*;
@@ -7,9 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.Test;
-
-import pac.data.Invoice;
-import pac.data.InvoiceRepository;
 
 public class InvoiceControllerTest {
 

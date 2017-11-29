@@ -1,4 +1,4 @@
-package pac.data;
+package demo1.invoice;
 
 public class Invoice {
 	private long id;

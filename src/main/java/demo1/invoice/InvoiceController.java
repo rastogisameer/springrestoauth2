@@ -1,12 +1,9 @@
-package pac.controller;
+package demo1.invoice;
 
 import java.util.List;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import pac.data.Invoice;
-import pac.data.InvoiceRepository;
 
 @RestController("/idea")
 public class InvoiceController {
